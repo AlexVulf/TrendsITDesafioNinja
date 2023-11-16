@@ -5,7 +5,7 @@ Desafio Ninja
 
 Participantes
 
-Alex Sandro Vulf
-Nilson Gutierres Filho
-Paulo Roberto J. Rodrigues
-Daniel Jun
+Alex Sandro Vulf,
+Nilson Gutierres Filho,
+Paulo Roberto J. Rodrigues,
+Daniel Jun,
